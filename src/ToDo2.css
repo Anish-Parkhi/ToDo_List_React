@@ -1,0 +1,50 @@
+.main-div{
+    margin: auto;
+    background-color: white;
+    width: 15%;
+    padding-bottom: 10%;
+    border-radius: 7%;
+}
+
+.input-field{
+    width: 60%;
+    margin-bottom: 3%;
+    border-style: none;
+    border-bottom-style:solid ;
+}
+
+.input-field 
+
+
+.image{
+    width: 8%;
+    margin: auto;
+    padding-top: 2%;
+    margin-top: 2%;
+}
+
+.list{
+    list-style-type: none;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    padding: 0%;
+}
+
+.list > li{
+    /* margin: auto; */
+    padding: 3%;
+}
+
+.btn{
+    border: none;
+    color: green;
+    background-color: white;
+    font-size: 25px;
+}
+
+.head{
+    margin-top:10%;
+    padding: 10px;
+    background-color: #876BA9;
+}
